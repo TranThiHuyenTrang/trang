@@ -1,0 +1,82 @@
+.contain {
+    width: 1650px;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.gach {
+    color: #eaa28b;
+    height: 1px;
+    background-color: #eaa28b;
+    margin-top: 10px;
+    width: 1700px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    /* width: 1400px;
+    margin-left: 70px; */
+}
+
+.enter {
+    margin-top: 80px;
+}
+
+.khungPayment {
+    border-radius: 20px;
+    border: ridge;
+    width: 800px;
+    border-color: #eaa28b;
+    height: 400px;
+}
+
+.flexKhung1 {
+    width: 680px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.margin {
+    margin: 35px;
+}
+
+.flexRadio {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.payment1 {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.btn-payment {
+    background: #eaa28b;
+    border-radius: 20px;
+    color: white;
+    height: 33px;
+    width: 100px !important;
+    margin-left: 1550px;
+    font-size: 15px;
+}
+
+.flex-img {
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -200px;
+    margin-top: -100px;
+}
+
+.ma {
+    margin-top: 100px;
+}
+
+.queen-payment {
+    font-family: Brush Script MT;
+    font-size: 40px;
+    color: #eaa28b;
+}

@@ -1,0 +1,96 @@
+.strong-title {
+    margin-left: 15px;
+}
+
+.product-flex {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    margin-left: -160px;
+}
+
+.flexKhung {
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+}
+
+.imageCheck {
+    width: 120px;
+    height: 90px;
+}
+
+.wrapper {
+    margin-top: 40px;
+    width: 1600px;
+    margin-left: 120px;
+}
+
+.form-input-checkout {
+    width: 570px;
+    height: 35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 15px;
+}
+
+.required {
+    color: red;
+}
+
+.container {
+    border: none;
+}
+
+.btn1 {
+    border-radius: 20px;
+    background: #eaa28b;
+    color: white;
+    border-color: #eaa28b;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 490px;
+}
+
+.khungInfo {
+    border-radius: 1px;
+    border-color: #eaa28b;
+    width: 600px;
+    height: 600px;
+    border: ridge;
+}
+
+.panel-info {
+    width: 600px;
+}
+
+.panel-heading1 {
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    background: #eaa28b;
+    height: 40px;
+    margin-top: -21px;
+}
+
+.title {
+    color: white;
+    padding: 10px;
+}
+
+.hr-payment {
+    border-color: #999 -moz-use-text-color -moz-use-text-color;
+    width: 550px;
+    margin-top: 10px;
+}
+
+.product-flex {
+    display: flex;
+    justify-content: space-between;
+    width: 550px;
+    margin-left: 20px;
+}

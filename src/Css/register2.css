@@ -1,0 +1,115 @@
+.khungRegis {
+    border-radius: 20px;
+    border: ridge;
+    width: 1500px;
+    border-color: #eaa28b;
+    height: 770px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.khungRegisUser {
+    border-radius: 20px;
+    border: ridge;
+    width: 650px;
+    border-color: #eaa28b;
+    height: 700px;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.khungLogin {
+    border-radius: 20px;
+    border: ridge;
+    width: 600px;
+    border-color: #eaa28b;
+    height: 590px;
+    margin-left: 590px;
+    margin-top: 100px;
+}
+
+.title {
+    text-align: center;
+    color: black;
+}
+
+hr {
+    border-color: #999 -moz-use-text-color -moz-use-text-color;
+    width: 400px;
+    margin-top: -30px;
+}
+
+.flex-form {
+    display: flex;
+    justify-content: space-between;
+    width: 1370px;
+    margin-left: 45px;
+}
+
+.form-input {
+    width: 620px;
+    height: 35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 15px;
+}
+
+.form-inputLogin {
+    width: 520px;
+    height: 35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 15px;
+}
+
+.required {
+    color: red;
+}
+
+.mar {
+    margin-left: 40px;
+}
+
+.input-1 {
+    width: 1380px;
+    height: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 15px;
+}
+
+.btn-Register {
+    background: #eaa28b;
+    border-radius: 20px;
+    color: white;
+    border-color: #eaa28b;
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 650px;
+    font-size: 18px;
+}
+
+.btn-RegisterUser {
+    background: #eaa28b;
+    border-radius: 20px;
+    color: white;
+    border-color: #eaa28b;
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 230px;
+    font-size: 18px;
+}
